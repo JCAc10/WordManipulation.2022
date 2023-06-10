@@ -1,0 +1,47 @@
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe.config
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\bin\Debug\Buscar_word.pdb
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\bin\Debug\Buscar_word.xml
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbprojAssemblyReference.cache
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form1.resources
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Resources.resources
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.GenerateResource.cache
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.exe
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.xml
+C:\Users\Elvis\source\repos\Buscar_word\Buscar_word\obj\Debug\Buscar_word.pdb
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe.config
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\bin\Debug\Buscar_word.pdb
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\bin\Debug\Buscar_word.xml
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbprojAssemblyReference.cache
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form1.resources
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form2.resources
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form3.resources
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form4.resources
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Resources.resources
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.GenerateResource.cache
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.CoreCompileInputs.cache
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.exe
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.xml
+D:\CURSOS\UNIVERSIDAD\SISTEMAS OPERATIVOS\Buscar_word\Buscar_word\obj\Debug\Buscar_word.pdb
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe.config
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\bin\Debug\Buscar_word.exe
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\bin\Debug\Buscar_word.pdb
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\bin\Debug\Buscar_word.xml
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbprojAssemblyReference.cache
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form1.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form2.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form3.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form4.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Resources.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.GenerateResource.cache
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.exe
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.xml
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.pdb
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.Form5.resources
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Buscar_word.vbproj.ResolveComReference.cache
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Interop.ADODB.dll
+C:\Users\Elvis\Desktop\Buscar_word\Buscar_word\obj\Debug\Interop.MSComDlg.dll
